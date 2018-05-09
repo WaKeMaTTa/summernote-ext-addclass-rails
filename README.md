@@ -16,9 +16,9 @@ Also, we have a [**live demo**][summernote-addclass-demo] (check the CSS3 icon b
 Add the following gems to your application's `Gemfile`:
 
 ```ruby
-gem 'bootstrap-sass'                # required
-gem 'summernote-rails'              # required
-gem 'summernote-ext-addclass-rails', '~> 0.8.3'
+gem 'bootstrap-sass'   # required
+gem 'summernote-rails' # required
+gem 'summernote-ext-addclass-rails', '~> 0.8.10'
 ```
 
 And then execute on the terminal:
@@ -74,15 +74,15 @@ More information [**here**][summernote-addclass-wiki].
 
 ## Versioning
 
-|  Major  |  Minor  |  Current  |
-|:-------:|:-------:|:---------:|
-| is the major of [summernote][summernote] | is the minor of [summernote][summernote] | is the vesion of this extension |
+|  Major  |  Minor  |  Patch  |  Current  |
+|:-------:|:-------:|:-------:|:---------:|
+| is the major of [summernote][summernote] | is the minor of [summernote][summernote] | is the patch of [summernote][summernote] | is the vesion of this extension |
 
 *Example:*
 
-The compatible versions of this gem with [summernote][summernote] `v0.8.3` are:
+The compatible versions of this gem with [summernote][summernote] `v0.8.10` are:
 
-- `summernote-ext-addclass-rails v0.8.X`
+- `summernote-ext-image-attributes-rails v0.8.10.X`
 
 ## License
 

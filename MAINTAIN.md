@@ -24,7 +24,7 @@ end
 Publish on rubygems
 
 ```bash
-bundle exec rake release
+bundle exec gem release --tag
 ```
 
 this command git tagging and publish
